@@ -1,4 +1,8 @@
 # Assignments
 Assignments for Programming for Economists 
-*markdown*  $$a^2$$
+*markdown*  
+/begin(equation)
+a^2 
+/end(equation)
+
 
